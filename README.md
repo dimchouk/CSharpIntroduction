@@ -1,4 +1,4 @@
-CSharpIntroduction
+C Sharp Introduction
 ==================
 1. Create, compile and run a “Hello C#” console application.
 2. Create console application that prints your first and last name.
